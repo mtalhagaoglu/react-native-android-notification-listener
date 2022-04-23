@@ -10,8 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leandrosimoes/react-native-android-notification-listener.git",
-    "baseUrl": "https://github.com/leandrosimoes/react-native--android-notification-listener"
+    "url": "git+https://github.com/mtalhagaoglu/react-native-android-notification-listener.git",
+    "baseUrl": "https://github.com/mtalhagaoglu/react-native-android-notification-listener"
   },
   "keywords": [
     "react-native",
